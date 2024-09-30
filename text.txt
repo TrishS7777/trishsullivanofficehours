@@ -1,0 +1,1 @@
+This is practice for working with a repository in git bash.  I have learned invaluable information and skills in this intro class. 
